@@ -19,10 +19,7 @@ scraped the movie data from https://amazon.com and https://camelcamelcamel.com
 ### EDA 
 
 **Lowest Price vs Date of lowest price**
-
 ![](https://github.com/Landstein/Amazon-Price-Prediction/blob/master/images/Lowest%20Price%20vs%20Date%20of%20lowest%20price.png)
-
-Looking to see if there are any months that price is usually the lowest or highest 
 
 **Lowest Price vs Number Reviews**
 ![](https://github.com/Landstein/Amazon-Price-Prediction/blob/master/images/Lowest%20Price%20vs%20Number%20Reviews.png)
